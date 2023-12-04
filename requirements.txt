@@ -1,0 +1,19 @@
+Datasets:
+CASIAv2
+Coverage
+
+
+python3
+
+Python libraries :
+numpy
+pandas
+matplotlib
+seaborn
+torch
+torchvision
+tqdm
+PIL
+cv2
+sklearn
+gc
